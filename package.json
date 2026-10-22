@@ -1,0 +1,23 @@
+{
+  "name": "my-queen",
+  "version": "1.0.0",
+  "description": "A birthday website with Vercel Web Analytics",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lil-fab/My-Queen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lil-fab/My-Queen/issues"
+  },
+  "homepage": "https://github.com/lil-fab/My-Queen#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
